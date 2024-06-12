@@ -32,3 +32,31 @@ body {
     text-wrap: balance;
   }
 }
+
+.landing {
+  display: flex;
+  padding: 0 10vw;
+  height: 100vh;
+  background-color: #232323;
+  background-image: linear-gradient(to right, rgb(24,32,39), rgb(58, 47, 84));
+}
+
+
+.landing-left {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media screen and (max-width: 800px) {
+  .landing {
+      flex-direction: column;
+      padding-top: 100px;
+      padding-bottom: 0;
+  }
+
+  .landing-left {
+      width: 85vw;
+  }
+}

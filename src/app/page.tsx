@@ -1,8 +1,8 @@
 export default function Home() {
   return (
     <main>
-      <div className="flex h-screen px-[10vw] py-0">
-        <div className="w-[50vw] flex flex-col justify-center">
+      <div className="landing">
+        <div className="landing-left">
 
           <div className="text-[30px]">
             <p>hi! i'm acon :D </p>
