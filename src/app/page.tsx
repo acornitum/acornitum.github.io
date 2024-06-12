@@ -13,7 +13,7 @@ export default function Home() {
           
 
           <div className="mt-4">
-            <p>welcome to my corner of the webs!</p>
+            <p>Welcome to my corner of the webs!</p>
             <p>I'm a high school student from Waterloo, Ontario.</p>
 
             <div className="mt-4">
