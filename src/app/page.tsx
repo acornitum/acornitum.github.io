@@ -31,6 +31,10 @@ export default function Home() {
             <p>&#129046; This spring, I organized <a href="https://apocalypse.hackclub.com/" className="text-[rgb(245,126,126)]">Apocalypse</a>, a 44h hackathon for 150 teens!</p>
           </div>
 
+          <div className="mt-4"> 
+            <p>Blog coming soon :D</p>
+          </div>
+
           <div className="mt-4 text-xs">
             <p>Want to connect? Send me a message at <a href="mailto:acon@hackclub.com" className="text-[rgb(245,126,126)]">acon@hackclub.com</a>!</p>
           </div>
