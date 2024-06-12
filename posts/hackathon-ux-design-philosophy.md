@@ -7,6 +7,8 @@ This weekend, I was chatting with a sponsor at JAMHacks for three hours. What wa
 
 But, the thing that surprised me the most out of that conversation: it had never occured to them to design hackathon ux as part of the hackathon experience. Meanwhile, I think ux is a core part of how I personally design hackathons, notably Apocalypse.
 
+### trad vs non-trad
+
 Here’s what I mean: in a traditional hackathon (probably what you’re used to), hackers follow rules that have been set up decades before. You come up with an idea, create a project, then demo it. This is the base structure of almost all hackathons—and, to be fair, non-traditional hackathons follow the same too. And yeah, there’s additional “side quests”—go to workshops, activities, talk to others—but those are normal. 
 
 **Because that's all a traditional hackathon is. A blank canvas.**
@@ -18,7 +20,7 @@ Now, take in Apocalypse, a 44 hour hackathon I organized a month ago. Not only d
 
 Traditional hackathons are a blank canvas. It’s still a canvas, and it’s a nice piece of fabric at that—but that’s all I see it as. A blank canvas. It’s up to you to add color. Sure, some people might dislike what you draw on it, and it’s more work, but that’s what adds the magic which makes it special. 
 
-**But why make it more complex? What's the point?**
+### But why make it more complex? What's the point?
 
 The reason I want to do these things, on a personal level, is because hackathons are the canvas for me to do more stuff I generally want to try in life. Like, since when will I ever get to mass produce a custom trading card game and have hundred playtesters, or lock people in a building overnight to simulate an economy, or sell stuff at The Shop as if I was a convention seller? 
 
@@ -28,7 +30,7 @@ Like, could we just talk about how hackathons are the perfect way to make these 
 - Hackers stay at the hackathon for a continuous unbroken amount of time, which means full immersion for the entire time is possible (ie: versus a convention where you break immersion by going back to a hotel at night) 
 - Have I mentioned the money and funding yet? (Of course, getting sponsors is hard, and Apocalypse did have a lot of privilege by getting acquired by Hack Club, but generally, you’re not using your own money to do stuff. Which, as a broke student, is amazing.) 
 
-**On perspectives on hackathon ux design:**
+### On perspectives on hackathon ux design:
 
 It had never occurred to me that other people haven’t thought of hackathons as a unique canvas that is the perfect platform to do things. I think most others(?) see them as the end. Meanwhile, I see hackathons moreso as a means to an end, the end being user experience and interactivity and immersiveness. 
 
@@ -36,7 +38,7 @@ So, while adding all these ways to interact might technically be “more work”
 
 My general, non-thematic user experience design philosophy goes: I don’t want anyone to be on their phones during the event. There should never be an instant where one feels the need to doomscroll on twitter for an hour. The experience should be fully immersive—at Apocalypse, to some degree, you should feel as if your life savings were dependent on the amount of Caps you had, even though that concept was introduced to you less than a day ago, and won’t matter after the event. (I’ll be writing an article later on how I personally go about designing experiences—so more on that later.)
 
-**So, long story short, why do I care about making experiences like this?**
+### So, long story short, why do I care about making experiences like this?
 
 One: because hackathons are the singular chance in which I have a user base to interact with systems I create. It's wasted opportunity if I don’t.
 Two: I’ll let you read the screenshot below.
