@@ -36,9 +36,9 @@ So, while adding all these ways to interact might technically be “more work”
 
 My general, non-thematic user experience design philosophy goes: I don’t want anyone to be on their phones during the event. There should never be an instant where one feels the need to doomscroll on twitter for an hour. The experience should be fully immersive—at Apocalypse, to some degree, you should feel as if your life savings were dependent on the amount of Caps you had, even though that concept was introduced to you less than a day ago, and won’t matter after the event. (I’ll be writing an article later on how I personally go about designing experiences—so more on that later.)
 
-So, long story short, why do I do these things? 
+**So, long story short, why do I care about making experiences like this?**
 
-One: because hackathons are the singular chances in which I have a user base to interact with systems I create. It's a wasted opportunity if I don’t do it.
+One: because hackathons are the singular chance in which I have a user base to interact with systems I create. It's wasted opportunity if I don’t.
 Two: I’ll let you read the screenshot below.
 
 *alt text: someone once asked acon why she bothered sm with the TCG and she was like "it brings me joy"*
