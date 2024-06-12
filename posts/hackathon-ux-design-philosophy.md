@@ -51,3 +51,5 @@ Thanks for reading.
 - *Yes, it will be more work.*
 - *If it’s your first hackathon you’re organizing + leading, and nobody else on team has experience, maybe take it easy*
 - *This is personally what I find fun and worthwhile. Not planning on ever organizing a trad hackathon (unless it’s hack the north (i’m their biggest fan - but also it’s on the edge between trad and non trad))*
+
+*Additional disclaimer: ux design like Apocalypse's probably can't be applied to every hackathon, and that's ok. Apocalypse worked out well because it my interests and hacker experience just overlapped extremely well. I don't know if it's possible to insert any random hobby into a hackathon, and maybe not a great idea to use hackers as a social experiment, but hey, for me, it was worth it.*
