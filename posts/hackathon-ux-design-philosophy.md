@@ -36,7 +36,7 @@ It had never occurred to me that other people haven’t thought of hackathons as
 
 So, while adding all these ways to interact might technically be “more work”, I don’t really view it with that mindset. These are things I want to do and things I personally think are fun to do, that I’ve suddenly had the perfect platform to make it happen. 
 
-My general, non-thematic user experience design philosophy goes: I don’t want anyone to be on their phones during the event. There should never be an instant where one feels the need to doomscroll on twitter for an hour. The experience should be fully immersive—at Apocalypse, to some degree, you should feel as if your life savings were dependent on the amount of Caps you had, even though that concept was introduced to you less than a day ago, and won’t matter after the event. (I’ll be writing an article later on how I personally go about designing experiences—so more on that later.)
+My general, non-thematic user experience design philosophy goes: make an event so nobody is on their phone during the event. There should never be an instant where one feels the need to doomscroll on twitter for an hour. The experience should be fully immersive—at Apocalypse, to some degree, you should feel as if your life savings were dependent on the amount of Caps you had, even though that concept was introduced to you less than a day ago, and won’t matter after the event. (I’ll be writing an article later on how I personally go about designing experiences—so more on that later.)
 
 ### So, long story short, why do I care about making experiences like this?
 
