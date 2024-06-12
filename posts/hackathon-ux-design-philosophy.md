@@ -7,7 +7,7 @@ This weekend, I was chatting with a sponsor at JAMHacks for three hours. What wa
 
 But, the thing that surprised me the most out of that conversation: it had never occured to them to design hackathon ux as part of the hackathon experience. Meanwhile, I think ux is a core part of how I personally design hackathons, notably Apocalypse.
 
-### trad vs non-trad
+### Traditional versus non-traditional hackathon experience design
 
 Here’s what I mean: in a traditional hackathon (probably what you’re used to), hackers follow rules that have been set up decades before. You come up with an idea, create a project, then demo it. This is the base structure of almost all hackathons—and, to be fair, non-traditional hackathons follow the same too. And yeah, there’s additional “side quests”—go to workshops, activities, talk to others—but those are normal. 
 
