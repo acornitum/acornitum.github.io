@@ -5,11 +5,11 @@ date: "2024-06-12"
 
 This weekend, I was chatting with a sponsor at JAMHacks for three hours. What was a question on hackathon grants quickly spiraled into a full conversation on hacker interactivity, designing experience, and event organizing. 
 
-But, the thing that surprised me the most out of that conversation: it had never occured to them to design hackathon ux as part of the hackathon experience. Meanwhile, I think ux is a core part of how I personally design hackathons, notably Apocalypse.
+But, the thing that surprised me the most out of that conversation: it had never occured to many to design hackathon ux as part of the hackathon experience. Meanwhile, I think ux is a core part of how I personally design hackathons, notably Apocalypse.
 
 ### Traditional versus non-traditional hackathon experience design
 
-Here’s what I mean: in a traditional hackathon (probably what you’re used to), hackers follow rules that have been set up decades before. You come up with an idea, create a project, then demo it. This is the base structure of almost all hackathons—and, to be fair, non-traditional hackathons follow the same too. And yeah, there’s additional “side quests”—go to workshops, activities, talk to others—but those are normal. 
+Here’s what I mean: in a traditional hackathon (probably what you’re used to), hackers follow rules that have been set up years before. You come up with an idea, create a project, then demo it. This is the base structure of almost all hackathons—and, to be fair, non-traditional hackathons follow the same too. And yeah, there’s additional “side quests”—go to workshops, activities, talk to others—but those are normal. 
 
 **Because that's all a traditional hackathon is. A blank canvas.**
 
@@ -22,7 +22,7 @@ Traditional hackathons are a blank canvas. It’s still a canvas, and it’s a n
 
 ### But why make it more complex? What's the point?
 
-The reason I want to do these things, on a personal level, is because hackathons are the canvas for me to do more stuff I generally want to try in life. Like, since when will I ever get to mass produce a custom trading card game and have hundred playtesters, or lock people in a building overnight to simulate an economy, or sell stuff at The Shop as if I was a convention seller? 
+The reason I want to do these things, on a personal level, is because hackathons are the canvas for me to do more stuff I generally want to try in life. Like, since when will I ever get to mass produce a custom trading card game and have a hundred playtesters, or lock people in a building overnight to simulate an economy, or sell stuff at The Shop as if I was a convention seller? 
 
 Like, could we just talk about how hackathons are the perfect way to make these things happen?
 - They have strict organizing/ordering deadlines which I need in order to get anything done
