@@ -41,7 +41,8 @@ My general, non-thematic user experience design philosophy goes: make the experi
 ### So, long story short, why do I care about making experiences like this?
 
 One: because hackathons are the singular chance in which I have a user base to interact with systems I create. It's wasted opportunity if I don’t.
-Two: I’ll let you read the screenshot below.
+Two: it'll (hopefully) elevate the hacker experience.
+Three: I’ll let you read the screenshot below.
 
 *alt text: someone once asked acon why she bothered sm with the TCG and she was like "it brings me joy"*
 
