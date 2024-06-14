@@ -5,7 +5,8 @@ import * as reactDom from 'react-dom'
 export default function Page() {
   return (
     <div>
-      <Markdown children={""}>{}</Markdown> 
+      <p>coming soon!</p>
+      {/* <Markdown children={""}>{}</Markdown> */}
     </div>
   );
 }
