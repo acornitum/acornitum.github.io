@@ -56,7 +56,7 @@ export default function Home() {
           <div className="post-content p-4">
             <p className="text-[rgb(245,126,126)] pb-2">my hackathon ux design philosophy</p>
             <p className="text-[color:white] text-xs pb-6">or, ramblings on why i bother with designing hacker interactivity</p>
-            <p className="text-[color:white] text-xs">date: 2024/06/12</p>
+            <p className="text-[color:white] text-xs">coming soon!</p>
           </div>
 
         </a></div>
