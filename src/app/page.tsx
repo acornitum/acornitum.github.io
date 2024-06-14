@@ -47,12 +47,15 @@ export default function Home() {
       </div>
 
 
+      <div className="bg-[#232323] pt-20 pb-10 grid items-center justify-center text-center">
+        <p className="text-2xl">blog</p>
+        <p className="mt-2">under construction</p>
+      </div>
+      
 
-      <p>blog - under construction</p>
+      <div className="blog bg-[#232323] flex items-center flex-wrap flex-row justify-center pb-5 px-[10vw] py-0;">
 
-      <div className="blog bg-[#232323] flex items-center flex-wrap flex-row justify-center pt-20 pb-5 px-[10vw] py-0;">
-
-        <div className="post h-[400px] w-[300px] border-[color:white] border-[length:2px] rounded-[5px] m-3"><ul><li><Link href="/blog"> 
+        <div className="post h-[400px] w-[300px] border-[color:white] border-[length:2px] rounded-[5px] m-3"><ul><li><Link href="#"> 
 
           <div className="post-image h-[200px] w-full bg-[#333333] rounded-t-[5px]"></div>
           <div className="post-content p-4">
