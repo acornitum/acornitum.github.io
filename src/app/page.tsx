@@ -66,7 +66,7 @@ export default function Home() {
       </div>
 
       <div className="bg-[#232323] flex justify-center text-xs pb-5 pt-20">
-        <p><a href="https://github.com/acornitum" className="text-[rgb(245,126,126)]">made by acon © 2024</a></p>
+        <p><a href="https://github.com/acornitum/site-v2" className="text-[rgb(245,126,126)]">made by acon © 2024</a></p>
       </div>
 
 
