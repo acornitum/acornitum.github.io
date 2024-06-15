@@ -55,7 +55,7 @@ export default function Home() {
 
       <div className="blog bg-[#232323] flex items-center flex-wrap flex-row justify-center pb-5 px-[10vw] py-0;">
 
-        <div className="post h-[400px] w-[300px] border-[color:white] border-[length:2px] rounded-[5px] m-3"><ul><li><Link href="#"> 
+        <div className="post h-[400px] w-[300px] border-[color:white] border-[length:2px] rounded-[5px] m-3"><ul><li><Link href="/blog"> 
 
           <div className="post-image h-[200px] w-full bg-[#333333] rounded-t-[5px]"></div>
           <div className="post-content p-4">
