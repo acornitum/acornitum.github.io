@@ -1,6 +1,6 @@
 import styles from "../styles/BlogList.module.css"
 
-const BlogList = ({ allBlogs }) => {
+const BlogList = ({ allBlogs }: { allBlogs: any }) => {
     return (
     <div className={styles.bloglist__container}>
       <h3>List of all blog posts will go here</h3>
