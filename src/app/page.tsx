@@ -1,5 +1,24 @@
 import Link from "next/link";
 
+import Layout from '../components/Layout'
+import BlogList from '../components/BlogList'
+
+
+const Index = props => {
+  return (
+    <Layout
+      pathname="/"
+      siteTitle={props.title}
+      siteDescription={props.description}
+    >
+      <section>
+        <BlogList/>
+      </section>
+    </Layout>
+  )
+}
+
+
 export default function Home() {
   return (
     <main>
