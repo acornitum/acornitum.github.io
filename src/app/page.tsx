@@ -1,10 +1,10 @@
 import Link from "next/link";
 
-import Layout from '../components/Layout'
-import BlogList from '../components/BlogList'
+import Layout from "../components/Layout";
+import BlogList from "../components/BlogList";
 
 
-const Index = props => {
+const Index = (props: { title: any; description: any; }) => {
   return (
     <Layout
       pathname="/"
